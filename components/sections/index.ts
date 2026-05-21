@@ -1,0 +1,15 @@
+export { HeroSection } from './HeroSection';
+export { SocialProofSection } from './SocialProofSection';
+export { InstagramReelsSection } from './InstagramReelsSection';
+export { YouTubeShortsSection } from './YouTubeShortsSection';
+export { FeaturedVideoSection } from './FeaturedVideoSection';
+export { TrainingProgramsSection } from './TrainingProgramsSection';
+export { TransformationStoriesSection } from './TransformationStoriesSection';
+export { AchievementsSection } from './AchievementsSection';
+export { PhilosophySection } from './PhilosophySection';
+export { FounderSection } from './FounderSection';
+export { GallerySection } from './GallerySection';
+export { TestimonialsSection } from './TestimonialsSection';
+export { EventsSection } from './EventsSection';
+export { FinalCTASection } from './FinalCTASection';
+export { Footer } from './Footer';
